@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Hruthish!
 
-<!--
-**hruthish7/hruthish7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m passionate about data science, machine learning, and building smart solutions using Python and Jupyter.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+- Python, Jupyter Notebooks
+- Data Analysis, Pandas, NumPy
+- Scikit-learn, Matplotlib, Seaborn
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Featured Projects:
+- [Bitcoin Price Analysis](https://github.com/hruthish7/chinnu) – Exploratory data analysis on Bitcoin price data using Jupyter.
+- 
+
+📫 How to reach me:
+- Email: hruthish2000@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/hruthish-sreedhara-8449881b5/)
+
+✨ Fun Fact: I love turning data into stories and visuals.
